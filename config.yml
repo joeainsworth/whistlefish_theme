@@ -1,0 +1,12 @@
+---
+:api_key: 4bde095ac74f8c2a533505338cb264dc
+:password: 054ff5ceee1f306b887dcd40be231b09
+:store: whistlefish-2.myshopify.com
+:whitelist_files:
+- layout/
+- assets/
+- config/
+- snippets/
+- templates/
+- locales/
+:theme_id: 145741895
